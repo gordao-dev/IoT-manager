@@ -16,12 +16,10 @@
 
 2. Copy `.env.example` located at the root folder to a new `.env` file and fill it with the credentials that you have set up on the past steps.
 
-3. Copy `orm.config.example.json` located in the root folder to a new `orm.config.json` file and fill it with credentials.
-
-4. to generate entities follow the steps below.
+3. to generate entity
 
    `yarn prisma generate`
 
-5. Run project:
+4. Run project:
 
    `yarn dev`

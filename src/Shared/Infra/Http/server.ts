@@ -4,7 +4,6 @@ import express from 'express';
 import { errors as CelebrateErrors } from 'celebrate';
 import { configure, getLogger } from 'log4js';
 import { PrismaClient } from '@prisma/client';
-import { Server } from 'socket.io';
 
 import Injections from '../Injections';
 import ErrorHandlerMiddleware from './Middlewares/ErrorsHandlerMIddleware';

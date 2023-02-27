@@ -23,3 +23,7 @@
 4. Run project:
 
    `yarn dev`
+
+5. Run tests
+
+   `yarn jest`

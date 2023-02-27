@@ -1,4 +1,4 @@
-# Management API
+# IoT Manager
 
 ## Introduction
 
